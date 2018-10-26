@@ -1,0 +1,6 @@
+.color-chip {
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-content: flex-start;
+}

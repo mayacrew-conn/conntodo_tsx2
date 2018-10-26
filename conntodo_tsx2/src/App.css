@@ -1,0 +1,9 @@
+.todo-app {
+  border: 1px solid #d0d0d0;
+  margin: 0 auto;
+  width: 380px;
+}
+.todo-app header {
+  text-align:center;
+  padding: 20px 0;
+}
